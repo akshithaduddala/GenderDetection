@@ -1,4 +1,4 @@
-python packages that need to be installed are given below.
+Python packages that need to be installed are given below.
 	numpy
 	opencv-python
 	requests
